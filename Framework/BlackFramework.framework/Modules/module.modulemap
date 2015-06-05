@@ -1,0 +1,6 @@
+framework module BlackFramework {
+  umbrella header "BlackFramework.h"
+
+  export *
+  module * { export * }
+}
